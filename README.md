@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm [murakami](https://github.com/MurakamiKennzo). 👋
 
-<!--
-**MurakamiKennzo/MurakamiKennzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a front-end developer and a haskell language lover.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning parse and wasm
+- 🤔 I’m looking for help with principles of compilation
+- 💬 Ask me about javascript、haskell
+- 📫 How to reach me: Kyoto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here is my github stats:
+
+![github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=MurakamiKennzo&show_icons=true&include_all_commits=true&theme=radical)
+
+and my most used languages here:
+
+![most used languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MurakamiKennzo&layout=compact&theme=radical)
